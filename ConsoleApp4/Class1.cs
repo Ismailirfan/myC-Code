@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    internal class Program
+     class Class1
     {
-        static void Main(string[] args)
+        public void mycalculator() 
         {
-            Class1 myobj = new Class1();
-            myobj.mycalculator();
+            Console.WriteLine("hello world");
         }
     }
 }
